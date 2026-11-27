@@ -1,0 +1,6 @@
+{
+  "name": "Joshua Mose — Favorite Popstar",
+  "description": "Offizielle Artist-Website von Popkünstler Joshua Mose: Tickets, Shop, Sex am See, Autogramm, Secco Mate, Papi Chulo und What's In My Bag.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
